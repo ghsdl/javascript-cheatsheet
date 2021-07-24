@@ -20,7 +20,7 @@ backend for web and mobile app can now be build.
 
 # difference between ecmascript and javascript
 
-ecmascript is the specification and responsible for defininind standards.
+ecmascript is the specification and responsible for definining standards.
 
 javascript is when those specifications are applied.
 
@@ -28,4 +28,4 @@ v1 was in 1997.
 
 # what is node js
 
-node is runtime environment for executing javascript code.
+node is a runtime environment for executing javascript code.
