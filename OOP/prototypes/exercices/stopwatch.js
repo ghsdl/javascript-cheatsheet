@@ -56,4 +56,4 @@ Stopwatch.prototype.reset = function () {
 };
 
 // put this object is useless because of the prototypes
-// not all optimizations are worth it
+// not all optimizations are worth it ! 
